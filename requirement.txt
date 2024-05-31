@@ -1,10 +1,8 @@
 Owner avatar Zepto31 Public AneesRavidKhan/Zepto31  Go to file
-t
 Add file
 Folders and files
 Name		
 Latest commit
-AneesRavidKhan
 AneesRavidKhan
 Added basic code to the project
 cfa8edf
@@ -13,21 +11,3 @@ cfa8edf
 History
 src
 Added basic code to the project
-31 minutes ago
-pom.xml
-Added basic code to the project
-31 minutes ago
-Repository files navigation
-README
-Add a README
-Help people interested in this repository understand your project by adding a README.
-About
-No description, website, or topics provided.
- Activity
-Stars
- 0 stars
-Watchers
- 1 watching
-Forks
- 0 forks
-Releases
